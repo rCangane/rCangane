@@ -20,11 +20,3 @@ ___
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-</div>
-<p align="center" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gHombris&theme=tokyonight" alt="Ryan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rcangane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
