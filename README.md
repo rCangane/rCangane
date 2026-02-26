@@ -22,9 +22,9 @@ ___
 
 </div>
 <p align="center" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gHombris&theme=tokyonight" alt="Gabriel's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gHombris&theme=tokyonight" alt="Ryan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gHombris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rcangane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
